@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @CarlsonRobotics
-- 👀 I’m interested in Robotics
-- 🌱 I’m currently learning Robotics
-- 💞️ I’m looking to collaborate on Robotics
-- 📫 How to reach me: Don't
+- 🦾 6528 Terror Bytes
+- 🏫 Github Account of Carlson High School Robotics Team
+- 👀 Owned and operated by Code Team (It's always electrical's fault)
+- ❔ What else to put here
 
 <!---
 CarlsonRobotics/CarlsonRobotics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

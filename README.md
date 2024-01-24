@@ -1,7 +1,7 @@
 - 🦾 6528 Terror Bytes
 - 🏫 Github Account of Carlson High School Robotics Team
 - 👀 Owned and operated by Code Team (It's always electrical's fault)
-- 🛥️ Hoping for a Water Game
+- 🛥️ Hoping for a Water Game (this wish was not granted 😦)
 
 <!---
 CarlsonRobotics/CarlsonRobotics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
